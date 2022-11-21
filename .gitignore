@@ -1,0 +1,3 @@
+.ipynb_checkpoints/
+#jupyter notebook files that I don't want
+DOB_Complaints_Received.csv
